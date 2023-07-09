@@ -6,7 +6,8 @@ public class Sampla {
 		
 		System.out.println("\n Hello this ajith kumar \n");
 		System.out.println("\n Welcome \n");
-		System.out.println("ajith")
+		System.out.println("ajith");
+		System.out.println("Thrisha");
 	}
 
 }
