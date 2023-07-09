@@ -1,0 +1,11 @@
+package org.login;
+
+public class Sampla {
+	
+	public static void main(String arg[]) {
+		
+		System.out.println("\n Hello this ajith kumar \n");
+		System.out.println("\n Welcome \n");
+	}
+
+}
